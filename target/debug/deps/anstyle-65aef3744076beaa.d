@@ -1,0 +1,12 @@
+D:\Machine Learning\rust\project\target\debug\deps\anstyle-65aef3744076beaa.rmeta: C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\lib.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\macros.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\color.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\effect.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\reset.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\style.rs
+
+D:\Machine Learning\rust\project\target\debug\deps\libanstyle-65aef3744076beaa.rlib: C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\lib.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\macros.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\color.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\effect.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\reset.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\style.rs
+
+D:\Machine Learning\rust\project\target\debug\deps\anstyle-65aef3744076beaa.d: C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\lib.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\macros.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\color.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\effect.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\reset.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\style.rs
+
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\lib.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\macros.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\color.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\effect.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\reset.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.1\src\style.rs:

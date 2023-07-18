@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\Machine Learning\rust\project\target\debug\build\typenum-3e47ceed0ca2c513\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\Machine Learning\rust\project\target\debug\build\typenum-3e47ceed0ca2c513\out\op.rs

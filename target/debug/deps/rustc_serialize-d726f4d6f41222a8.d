@@ -1,0 +1,10 @@
+D:\Machine Learning\rust\project\target\debug\deps\rustc_serialize-d726f4d6f41222a8.rmeta: C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\lib.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\serialize.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\collection_impls.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\base64.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\hex.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\json.rs
+
+D:\Machine Learning\rust\project\target\debug\deps\rustc_serialize-d726f4d6f41222a8.d: C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\lib.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\serialize.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\collection_impls.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\base64.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\hex.rs C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\json.rs
+
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\lib.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\serialize.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\collection_impls.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\base64.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\hex.rs:
+C:\Users\saqib\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\json.rs:
